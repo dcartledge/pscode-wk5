@@ -1,0 +1,40 @@
+// Exercise 1: Calculate the Sum of Two Numbers
+
+Num1 = a
+Num2 = b
+
+a + b = c
+
+println = c
+
+// Exercise 2: Check if a Number is Even or Odd
+
+Num1 = a
+
+if a % 2 == 0 
+    
+    then println "even"
+
+else println "odd"
+
+// Exercise 3: 
+Write pseudo code that will perform the following.    
+
+a) Read in 5 separate numbers.   
+b) Calculate the average of the five numbers.
+c) Find the smallest (minimum) and largest (maximum) of the five entered numbers.
+d) Write out the results found from steps b and c with a message describing what they are
+
+console.log ("Enter five separate numbers:")
+
+store console.log in array [a]
+
+function avg of [a] = b
+function min of [a] = c
+function max of [a] = d
+
+println ("The average is:") b
+println ("The smallest number is:) c
+println ("The largest number is:) d
+
+-- END --
